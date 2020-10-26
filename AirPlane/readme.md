@@ -1,4 +1,4 @@
-![UseCaseDiagram __Airplane](png/UseCaseDiagram __Airplane.png)
+![UseCaseDiagram_Airplane](png/UseCaseDiagram_Airplane.png)
 
 ![ClassDiagram_Airplane](png/ClassDiagram_Airplane.png)
 
