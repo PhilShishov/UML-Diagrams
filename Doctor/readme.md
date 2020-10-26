@@ -1,1 +1,1 @@
-![Use Case View__AddAppointment__Interaction1__AddAppointment_2](png/Use Case View__AddAppointment__Interaction1__AddAppointment_2.png)
+![UseCaseDiagram__AddAppointment__Interaction](png/UseCaseDiagram__AddAppointment__Interaction)
